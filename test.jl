@@ -1,5 +1,4 @@
 println()
+abs(-5)
 
-hello
-
-hey
+println("hello world")
