@@ -1,4 +1,5 @@
-print("hello")
-a=abs(-5)
+println()
 
+hello
 
+hey
